@@ -31,6 +31,7 @@ Place all card images in `assets/cards/`, including `Back.png`.
 
 ![image](https://github.com/user-attachments/assets/e15c9763-121a-4978-9c36-37062eababc3)
 
+To make the dice go away just click them.
 
 3. Winning hand option at the end of three dice rolls
 
@@ -66,6 +67,7 @@ Although please note, the winner is only announced when you click the button. An
 14. No way to add more players yet.
 15. Player and deck/pile positions aren't great, but they aren't bad. Something to work on later.
 16. The sabacc shift works as it should, but I haven't extensively tested it.
+17. If no sabacc shift happens, it doesn't announce anything. Kinda anti-climatic.
     
 
 ## Acknowledgments
